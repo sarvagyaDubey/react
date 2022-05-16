@@ -1,0 +1,11 @@
+button{
+    margin: 10px;
+}
+.box1{
+    display: flex;
+    border: 2px solid red;
+}
+.box2{
+ 
+    border: 2px solid red;
+}

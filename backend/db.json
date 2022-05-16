@@ -1,28 +1,29 @@
 {
-  "userdetails": [
+  "expenseDetails": [
     {
-     
-      "Cname": "sarvagya",
-      "mobile": "9292929292",
-      "email": "dwarka@gmail.com"
+      "id": 1,
+      "desc": "school",
+      "amt": "5000"
     },
     {
-      
-      "Cname": "ankit",
-      "mobile": "980000652",
-      "email": "london@gmail.com"
+      "desc": "jarksdjbc",
+      "amt": "4000",
+      "id": 2
     },
     {
-     
-      "Cname": "akanksha",
-      "mobile": "9818567890",
-      "email": "nodia@gmail.com"
+      "desc": "hgchfc",
+      "amt": "666",
+      "id": 3
     },
     {
-  
-      "Cname": "anshu",
-      "mobile": "9876543220",
-      "email": "lodhicolony@gmail.com"
+      "desc": "ijwbihcb",
+      "amt": "300",
+      "id": 4
+    },
+    {
+      "desc": "jhbkbhk",
+      "amt": "87",
+      "id": 5
     }
   ]
 }
